@@ -1,4 +1,4 @@
 MATEVO-Mobile
 =============
 
-MATEVO Mobile Version for iPhone
+MATEVO Mobile Version (developed for iPhone viewport)
